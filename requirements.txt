@@ -1,0 +1,5 @@
+djangorestframework
+Django
+mysqlclient
+PyJWT
+gunicorn
